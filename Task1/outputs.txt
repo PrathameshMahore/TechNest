@@ -1,0 +1,16 @@
+=== SMART CALCULATOR ===
+Enter first number: 12
+Enter second number: 4
+Choose operator (+, -, *, /): *
+Result = 48.0
+
+=== PRIME NUMBER CHECKER ===
+Enter a number: 29
+ Prime Number
+
+=== STAR PATTERN PRINTER ===
+Enter number of rows: 4
+   * 
+  * * 
+ * * * 
+* * * *
