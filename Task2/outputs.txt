@@ -1,0 +1,22 @@
+=== Animal Sounds ===
+Tommy barks 
+Kitty meows 
+
+=== Create New Bank Account ===
+Enter name: Rahul
+Enter account number: 123456789
+Enter initial balance: ₹10000
+
+=== Account Details ===
+Holder: Rahul
+Account No: 123456789
+Balance: ₹10000.0
+
+Deposited: ₹5000.0
+Withdrawn: ₹3000.0
+Insufficient balance!
+
+=== Account Details ===
+Holder: Rahul
+Account No: 123456789
+Balance: ₹12000.0
