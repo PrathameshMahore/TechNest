@@ -1,0 +1,17 @@
+=== STUDENT RECORD MANAGER ===
+How many students? 2
+Enter name: Alice
+Enter roll number: 101
+Enter name: Bob
+Enter roll number: 102
+
+ Student List:
+Roll No: 101, Name: Alice
+Roll No: 102, Name: Bob
+
+=== EXCEPTION-SAFE CALCULATOR ===
+Enter first number: 12
+Enter second number: 0
+Enter operation (+, -, *, /): /
+ Error: Division by zero!
+ Program ended.
