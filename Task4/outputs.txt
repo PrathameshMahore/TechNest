@@ -1,0 +1,8 @@
+=== FILE HANDLING UTILITY ===
+Enter file name (e.g., sample.txt): sample.txt
+Enter text to write: Hello TechNest Internship!
+
+Content written successfully.
+
+File Content:
+Hello TechNest Internship!
